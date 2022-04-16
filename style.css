@@ -1,0 +1,20 @@
+
+.aa{
+    background-image: url(im33.jpeg);
+    background-size: cover;
+    color: white;
+   
+}
+.background-overlay{
+background-color: rgba(102, 77, 55, 0.89);
+}
+.ww{
+    height: 200px;
+    width:350px;
+}
+.xx{
+    height: 200px;
+}
+.vv{
+    height: 200px;
+}
